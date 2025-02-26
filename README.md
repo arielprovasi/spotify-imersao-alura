@@ -4,7 +4,7 @@ Desenvolvido durante a Imersão Front-End 2024 da Alura, esse projeto recria a i
 
 A interatividade do projeto é impulsionada pelo uso de JavaScript, que permite funcionalidades como a busca dinâmica de artistas e a atualização em tempo real da interface. Com o auxílio do JSON Server, simulamos uma API local que responde às requisições de pesquisa e exibe resultados, proporcionando uma experiência mais realista, como se estivéssemos realmente conectados ao Spotify.
 
-![screenshot](src\assets\screenshot.png)
+![screenshot](screenshot.png)
 
 ## 🚀 Tecnologias Utilizadas
 
