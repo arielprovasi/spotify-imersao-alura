@@ -1,4 +1,4 @@
-# 🎵 Spotify Imersão Alura
+# 🎵 Spotify - Imersão Alura
 
 Desenvolvido durante a Imersão Front-End 2024 da Alura, esse projeto recria a interface inicial do Spotify do zero. Usando HTML, CSS, JavaScript, Node.js e JSON, o objetivo é oferecer uma experiência de usuário fluida e interativa, com design responsivo e boas práticas de desenvolvimento.
 
